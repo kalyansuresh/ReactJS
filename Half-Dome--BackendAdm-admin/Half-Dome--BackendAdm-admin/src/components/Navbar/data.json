@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Appointment Reminder",
+        "desc": "This is a reminder that you have an appointment scheduled for tomorrow at 10am.",
+        "time": "5 hours ago",
+        "read": false
+    },
+    {
+        "title": "Appointment Reminder",
+        "desc": "This is a reminder that you have an appointment scheduled for tomorrow at 10am.",
+        "time": "5 hours ago",
+        "read": true
+    },
+    {
+        "title": "Appointment Reminder",
+        "desc": "This is a reminder that you have an appointment scheduled for tomorrow at 10am.",
+        "time": "5 hours ago",
+        "read": false
+    },
+    {
+        "title": "Appointment Reminder",
+        "desc": "This is a reminder that you have an appointment scheduled for tomorrow at 10am.",
+        "time": "5 hours ago",
+        "read": false
+    },
+    {
+        "title": "Appointment Reminder",
+        "desc": "This is a reminder that you have an appointment scheduled for tomorrow at 10am.",
+        "time": "5 hours ago",
+        "read": false
+    }
+    
+]

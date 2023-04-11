@@ -1,0 +1,60 @@
+.MuiBox-root{
+    width:80% !important;
+    /* min-width: 100px; */
+}
+
+.select_box{
+    width: 100px;
+    /* height: 35px; */
+    overflow: hidden;
+    border: 1px solid #E3E3E3;
+    background-color: white;
+    border-radius: 50px;
+    position: relative;
+    /* padding: 1px 0; */
+    align-items: center;
+  }
+  .select_box:after{
+    width: 0; 
+    height: 0; 
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #FA7457;
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    content: "";
+    /* z-index: 98; */
+    align-items: center;
+   }
+  .select_box select{
+    width: 115px;
+    border: 0;
+    position: relative;
+    /* z-index: 99; */
+    background: none;
+    align-items: center;
+  }
+
+/* .custom-scrollbar{
+  
+
+    ::-webkit-scrollbar {
+        
+          width: 11px;
+        
+        }
+        
+        
+        
+        
+        ::-webkit-scrollbar-thumb {
+        
+         background: #e8e8e8 0% 0% no-repeat padding-box;
+        
+         border-radius: 6px;
+        
+         }
+        
+        
+} */

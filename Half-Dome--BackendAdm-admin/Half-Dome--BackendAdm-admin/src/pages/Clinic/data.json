@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "Email": "cmanie0@unblog.fr",
+      "Phone": "7026216005",
+      "ClinicName": "Clinic 1",
+      
+      "Zipcode":"781028",
+      "State":"California",
+      "City":"Austin"
+    },
+    {
+      "id": 2,
+      "Email": "bcanton1@accuweather.com",
+      "Phone": "4531308600",
+      "ClinicName": "Clinic 1",
+       "Zipcode":"781028",
+      "State":"Texas",
+      "City":"San Francisco"
+    },
+    {
+      "id": 3,
+      "Email": "brosnau2@bing.com",
+      "Phone": "8844078635",
+      "ClinicName": "Clinic 1",
+      "Zipcode":"781028",
+      "State":"FLorida",
+      "City":"Austin"
+    },
+    {
+      "id": 4,
+      "Email": "bwilmott3@ed.gov",
+      "Phone": "4107993542",
+      "ClinicName": "Clinic 1",
+      "Zipcode":"781028",
+      "State":"California",
+      "City":"Austin"
+    },
+    {
+      "id": 5,
+      "Email": "sbalogun4@bbc.co.uk",
+      "Phone": "9352243886",
+      "ClinicName": "Clinic 1",      
+      "Zipcode":"781028",
+      "State":"California",
+      "City":"San Francisco"
+    },
+    {
+      "id": 6,
+      "Email": "blytton5@kickstarter.com",
+      "Phone": "7777811615",
+      "ClinicName": "Clinic 1",
+      "Zipcode":"781028",
+      "State":"California",
+      "City":"San Francisco"
+    }
+]
